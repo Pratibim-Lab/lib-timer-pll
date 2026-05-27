@@ -1,0 +1,17 @@
+{
+  "id": "Timer_PLL/CS2000-CP:CS2000-CP",
+  "name": "CS2000-CP",
+  "library": "Timer_PLL",
+  "file": "Timer_PLL.kicad_symdir/CS2000-CP.kicad_sym",
+  "description": "Fractional-N Clock Synthesizer & Clock Multiplier, MSOP-10",
+  "datasheet": "https://statics.cirrus.com/pubs/proDatasheet/CS2000-CP_F3.pdf",
+  "keywords": "Clock Synthesizer Multiplier",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-timer-pll@master/parts/CS2000-CP/",
+  "part_path": "parts/CS2000-CP",
+  "symbol_file": "parts/CS2000-CP/CS2000-CP.kicad_sym",
+  "source_library": "Timer_PLL.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:47.696Z"
+}

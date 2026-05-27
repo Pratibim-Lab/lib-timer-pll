@@ -1,0 +1,17 @@
+{
+  "id": "Timer_PLL/ADF4002BCPZ:ADF4002BCPZ",
+  "name": "ADF4002BCPZ",
+  "library": "Timer_PLL",
+  "file": "Timer_PLL.kicad_symdir/ADF4002BCPZ.kicad_sym",
+  "description": "400MHz Bandwidth Frequency Synthesizer, LFCSP-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4002.pdf",
+  "keywords": "Analog Devices PFD",
+  "footprint": "Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-timer-pll@master/parts/ADF4002BCPZ/",
+  "part_path": "parts/ADF4002BCPZ",
+  "symbol_file": "parts/ADF4002BCPZ/ADF4002BCPZ.kicad_sym",
+  "source_library": "Timer_PLL.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:47.678Z"
+}

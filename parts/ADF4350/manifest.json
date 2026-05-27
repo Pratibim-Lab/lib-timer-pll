@@ -1,0 +1,17 @@
+{
+  "id": "Timer_PLL/ADF4350:ADF4350",
+  "name": "ADF4350",
+  "library": "Timer_PLL",
+  "file": "Timer_PLL.kicad_symdir/ADF4350.kicad_sym",
+  "description": "137.5-4400MHz fractional-N PLL, LFCSP-32",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4350.pdf",
+  "keywords": "fractional-N PLL",
+  "footprint": "Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm",
+  "extends": "ADF4351",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-timer-pll@master/parts/ADF4350/",
+  "part_path": "parts/ADF4350",
+  "symbol_file": "parts/ADF4350/ADF4350.kicad_sym",
+  "source_library": "Timer_PLL.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:47.682Z"
+}

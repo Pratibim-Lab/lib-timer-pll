@@ -1,0 +1,17 @@
+{
+  "id": "Timer_PLL/Si5342A-D:Si5342A-D",
+  "name": "Si5342A-D",
+  "library": "Timer_PLL",
+  "file": "Timer_PLL.kicad_symdir/Si5342A-D.kicad_sym",
+  "description": "Jitter Attenuator/Clock Multiplier, 2 channel, Fractional, 0.001-1028 MHz, QFN-44",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/Si5345-44-42-D-DataSheet.pdf",
+  "keywords": "Clock Jitter Attenuator Multiplier",
+  "footprint": "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-timer-pll@master/parts/Si5342A-D/",
+  "part_path": "parts/Si5342A-D",
+  "symbol_file": "parts/Si5342A-D/Si5342A-D.kicad_sym",
+  "source_library": "Timer_PLL.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:47.706Z"
+}

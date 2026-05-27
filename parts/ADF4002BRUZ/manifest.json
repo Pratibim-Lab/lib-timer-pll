@@ -1,0 +1,17 @@
+{
+  "id": "Timer_PLL/ADF4002BRUZ:ADF4002BRUZ",
+  "name": "ADF4002BRUZ",
+  "library": "Timer_PLL",
+  "file": "Timer_PLL.kicad_symdir/ADF4002BRUZ.kicad_sym",
+  "description": "400MHz Bandwidth Frequency Synthesizer, TSSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4002.pdf",
+  "keywords": "Analog Devices PFD",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-timer-pll@master/parts/ADF4002BRUZ/",
+  "part_path": "parts/ADF4002BRUZ",
+  "symbol_file": "parts/ADF4002BRUZ/ADF4002BRUZ.kicad_sym",
+  "source_library": "Timer_PLL.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:47.679Z"
+}

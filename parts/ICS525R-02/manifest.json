@@ -1,0 +1,17 @@
+{
+  "id": "Timer_PLL/ICS525R-02:ICS525R-02",
+  "name": "ICS525R-02",
+  "library": "Timer_PLL",
+  "file": "Timer_PLL.kicad_symdir/ICS525R-02.kicad_sym",
+  "description": "User configurable clock up to 200 MHz, SSOP-28",
+  "datasheet": "https://www.idt.com/document/dst/525-01-02-datasheet",
+  "keywords": "Configurable clock",
+  "footprint": "Package_SO:SSOP-28_3.9x9.9mm_P0.635mm",
+  "extends": "ICS525-01R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-timer-pll@master/parts/ICS525R-02/",
+  "part_path": "parts/ICS525R-02",
+  "symbol_file": "parts/ICS525R-02/ICS525R-02.kicad_sym",
+  "source_library": "Timer_PLL.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:47.705Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Timer_PLL/ADF4158:ADF4158",
+  "name": "ADF4158",
+  "library": "Timer_PLL",
+  "file": "Timer_PLL.kicad_symdir/ADF4158.kicad_sym",
+  "description": "0.5-6.1GHz fractional-N PLL, LFCSP-24",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4158.pdf",
+  "keywords": "fractional-N PLL",
+  "footprint": "Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-timer-pll@master/parts/ADF4158/",
+  "part_path": "parts/ADF4158",
+  "symbol_file": "parts/ADF4158/ADF4158.kicad_sym",
+  "source_library": "Timer_PLL.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:47.681Z"
+}

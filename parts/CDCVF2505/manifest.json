@@ -1,0 +1,17 @@
+{
+  "id": "Timer_PLL/CDCVF2505:CDCVF2505",
+  "name": "CDCVF2505",
+  "library": "Timer_PLL",
+  "file": "Timer_PLL.kicad_symdir/CDCVF2505.kicad_sym",
+  "description": "Clock Phase-Lock Loop Clock Driver, 24-200MHz, 3.3V, SOIC-8/TSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/cdcvf2505.pdf",
+  "keywords": "pll clock driver",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-timer-pll@master/parts/CDCVF2505/",
+  "part_path": "parts/CDCVF2505",
+  "symbol_file": "parts/CDCVF2505/CDCVF2505.kicad_sym",
+  "source_library": "Timer_PLL.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:47.688Z"
+}
